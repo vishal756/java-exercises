@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;LAB-2&apos;&#x0D;&#x0A;- Original project: &apos;LAB-2&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ReverseNumberSortedArray.java&#x0D;&#x0A;     SecondSmallest.java&#x0D;&#x0A;     SortStringAlphabeticalOrder.java" description="Delete elements" element1="/src&lt;{ReverseNumberSortedArray.java" element2="/src&lt;{SecondSmallest.java" element3="/src&lt;{SortStringAlphabeticalOrder.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1634785078163" subPackages="false" version="1.0"/>
+</session>
