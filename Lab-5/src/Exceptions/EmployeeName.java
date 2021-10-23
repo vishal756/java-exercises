@@ -1,6 +1,5 @@
 package Exceptions;
 import java.util.Scanner;
-
 public class EmployeeName {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
