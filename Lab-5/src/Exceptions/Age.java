@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Age {
 
 	public static void main(String[] args) {
-		Scanner scan =new Scanner(System.in);
+		Scanner scan =new Scanner(System.in);//input
 		System.out.println("enter age");
 		int age=scan.nextInt();
 		try {
@@ -16,7 +16,7 @@ public class Age {
 				
 			}
 		}
-		catch(NullPointerException e) {
+		catch(NullPointerException e) {//handling the exception
 			System.out.println("age should be greater than 15");
 		}
 	
