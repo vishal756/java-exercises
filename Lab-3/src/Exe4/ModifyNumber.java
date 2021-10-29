@@ -30,6 +30,7 @@ public class ModifyNumber {
 		s.split("-");
 
 		System.out.println(s);
+		sc.close();
 
 	}
 
